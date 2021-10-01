@@ -1,5 +1,5 @@
 {
-    "name": "ratchet/rfc6455",
+    "name": "dcnl1980/rfc6455",
     "type": "library",
     "description": "RFC6455 WebSocket protocol handler",
     "keywords": ["WebSockets", "websocket", "RFC6455"],
@@ -13,6 +13,11 @@
         },
         {
             "name": "Matt Bonneau",
+            "role": "Developer"
+        },
+        {
+            "name": "Chris van Steenbergen",
+            "homepage": "https://github.com/dcnl1980",
             "role": "Developer"
         }
     ],
